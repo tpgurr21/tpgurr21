@@ -4,6 +4,6 @@
   
   I have taken Udemy courses, and have gone through many video tutorials to learn the ins and outs of JavaScript, CSS, and HTML.
   
-  I am currently learning React, and am currently building a website with it right now.
+  I am currently learning React, and am building a website with it right now.
 
 
