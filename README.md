@@ -1,9 +1,7 @@
 👋 Hi, I’m Thomas Gurr
 
-  I am a self-taught software developer, who is currently looking for a front-end job.
+  Self-taught front-end developer skilled in JavaScript, React, CSS, and HTML. 
   
-  I have taken Udemy courses, and have gone through many video tutorials to learn the ins and outs of JavaScript, CSS, and HTML.
+  Quick learner with hands-on experience from Udemy courses and personal projects. 
   
-  I am currently learning React, and am building a website with it right now.
-
-
+  Seeking opportunities to grow and deliver impactful web solutions.
